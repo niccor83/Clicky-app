@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Homer",
+        "image": "./assets/images/Homer.png"
+    },
+    {
+        "id": 2,
+        "name": "Marge",
+        "image": "./assets/images/Marge.png"
+    },
+    {
+        "id": 3,
+        "name": "Bart",
+        "image": "./assets/images/Bart.png"
+    },
+    {
+        "id": 4,
+        "name": "Lisa",
+        "image": "./assets/images/Lisa.png"
+    },
+    {
+        "id": 5,
+        "name": "Maggie",
+        "image": "./assets/images/Maggie.png"
+    },
+    {
+        "id": 6,
+        "name": "Abe",
+        "image": "./assets/images/Abe.png"
+    },
+    {
+        "id": 7,
+        "name": "Apu",
+        "image": "./assets/images/Apu.png"
+    },
+    {
+        "id": 8,
+        "name": "Barney",
+        "image": "./assets/images/Barney.png"
+    },
+    {
+        "id": 9,
+        "name": "Chief Wiggum",
+        "image": "./assets/images/Chief_Wiggum.png"
+    },
+    {
+        "id": 10,
+        "name": "Groundskeeper Willie",
+        "image": "./assets/images/Groundskeeper_Willie.png"
+    },
+    {
+        "id": 11,
+        "name": "Krusty",
+        "image": "./assets/images/Krusty.png"
+    },
+    {
+        "id": 12,
+        "name": "Moe",
+        "image": "./assets/images/Moe.png"
+    },
+    {
+        "id": 13,
+        "name": "Mr. Burns",
+        "image": "./assets/images/Mr_Burns.png"
+    },
+    {
+        "id": 14,
+        "name": "Ned",
+        "image": "./assets/images/Ned.png"
+    },
+    {
+        "id": 15,
+        "name": "Nelson",
+        "image": "./assets/images/Nelson.png"
+    },
+    {
+        "id": 16,
+        "name": "Ralph",
+        "image": "./assets/images/Ralph.png"
+    }
+    
+]
