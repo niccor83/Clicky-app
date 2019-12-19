@@ -4,4 +4,6 @@
     text-shadow: 2px 2px grey;
     background-size: cover;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    clear: both;
 }

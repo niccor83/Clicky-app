@@ -4,7 +4,6 @@ import "./Jumbotron.css";
 function Jumbotron({ children }) {
     return (
         <div
-            style={{ clear: "both", paddingTop: 120, textAlign: "center" }}
             className="jumbotron"
         >
             {children}
@@ -13,3 +12,4 @@ function Jumbotron({ children }) {
 }
 
 export default Jumbotron;
+
